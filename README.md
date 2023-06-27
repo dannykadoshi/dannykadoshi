@@ -1,10 +1,12 @@
-### Hi there! 👋
+# Hi there! I'm Danni Browne👋
 
-I'm Danni Browne, a Quality Assurance Specialist turned Tech Customer Service Manager, and I'm excited to dive into the world of coding! 🚀 Currently, I'm on an amazing journey of learning full-stack development at Code Institute.
+I'm a Quality Assurance Specialist turned Tech Customer Service Manager, and I'm excited to dive into the world of coding! 🚀 Currently, I'm on an amazing journey of learning full-stack development at Code Institute.
 
 🌍 Originally from Brazil, I made the leap to Ireland in 2013, ready to embrace new challenges and opportunities. 🇧🇷 🛫 🇮🇪
 
-#### 🛠️ Languages and Tools
+#
+
+### 🛠️ Languages and Tools
 
 Here are some of the awesome languages and tools I work with:
 
@@ -15,6 +17,10 @@ Here are some of the awesome languages and tools I work with:
 <img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="VS Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+
+<br />
+
+#
 
 Feel free to connect with me and explore my coding journey together. Let's learn, collaborate, and conquer new coding horizons! 🌟
 
