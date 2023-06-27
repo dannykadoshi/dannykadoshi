@@ -21,7 +21,7 @@ Here are some of the awesome languages and tools I work with:
 <br />
 
 #
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dannykadoshi)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/dannykadoshi/github-readme-stats)
 
 #
 
