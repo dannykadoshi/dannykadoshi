@@ -22,6 +22,10 @@ Here are some of the awesome languages and tools I work with:
 
 #
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dannykadoshi)](https://github.com/anuraghazra/github-readme-stats)
+
+#
+
 Feel free to connect with me and explore my coding journey together. Let's learn, collaborate, and conquer new coding horizons! 🌟
 
 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/dannibrowne/).
