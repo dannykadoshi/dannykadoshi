@@ -1,4 +1,4 @@
-# Hi there!👋 I'm Danni Browne 💁🏻‍♀️
+# Hi there!👋 I'm Danni Kadoshi 💁🏻‍♀️
 
 I'm a Quality Assurance Specialist turned Tech Customer Service Manager, and I'm excited to dive into the world of coding! 🚀 Currently, I'm on an amazing journey of learning full-stack development at Code Institute.
 
